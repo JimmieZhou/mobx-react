@@ -18,7 +18,7 @@ redux的api是基于函数式编程风格的，这对于只具备面向对象开
 
 ## 2、开发代码量少
 
-redux引用reducer,action,store等众多概念，每增加一个状态都需要同步更新这些位置，样板代码较多。而mobx只要在state中更新即可，代码编写量上大大少于mobx。
+redux引用reducer,action,store等众多概念，每增加一个状态都需要同步更新这些位置，样板代码较多。而mobx只要在state中更新即可，代码编写量上大大少于redux。
 
 ## 3、渲染性能好
 

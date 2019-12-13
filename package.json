@@ -1,0 +1,30 @@
+{
+  "name": "mobx-react",
+  "version": "1.0.0",
+  "description": "<!--  * @Descripttion:   * @version: 1.0.0  * @Author: jimmiezhou  * @Date: 2019-12-13 10:21:56  * @LastEditors: jimmiezhou  * @LastEditTime: 2019-12-13 14:15:53  --> # mobx是什么",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmieZhou/mobx-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmieZhou/mobx-react/issues"
+  },
+  "homepage": "https://github.com/JimmieZhou/mobx-react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
